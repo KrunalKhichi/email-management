@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.email-manager {
+  max-width: 800px;
+  margin: auto;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+  margin-right: 4px;
+}
+
+h3 label{
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.email-list{
+  padding-left: 15px;
+}
